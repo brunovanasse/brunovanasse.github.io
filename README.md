@@ -1,5 +1,5 @@
 * * *
-# Bruno Vanasse - Behavioral Scientist 
+# Bruno Vanasse
 
 ...
 
