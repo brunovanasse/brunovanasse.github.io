@@ -12,3 +12,6 @@ You can find Bruno Vanasse's resume/CV by [downloading this PDF](Bruno_Vanasse.p
 ## Contact 
 
 You can contact Bruno Vanasse by email at: <bruno.vanasse@gmail.com> 
+
+
+* * *
