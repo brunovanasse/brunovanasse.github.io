@@ -1,7 +1,7 @@
 * * *
-# Bruno Vanasse
+# Bruno Vanasse, M.Ps.(I-O Psych), CD.
 
-...
+(short bio soon)
 
 
 ## Resume
