@@ -1,4 +1,5 @@
-CONFERENCE PRESENTER & ARTICLES
+***  
+# CONFERENCE PRESENTER & ARTICLES
 
 4 May 2011: How Will Al-Qaeda Survive the Death of Osama Bin Laden? Feature article at DefenceIQ.
  
@@ -53,6 +54,9 @@ CONFERENCE PRESENTER & ARTICLES
 24 Oct 2000: “Using information technology for career management professionals” – presentation to provincial chapter of “L’Association Internationale des professionnels en gestion de carrière” at Omni Hotel Montreal (2 hours).
 
 1 April 2000: “Interviewing Techniques for a Competitive Environment: Identifying and Exploiting Human Source Intelligence Effectively and Ethically” - Workshop presented at the Society of Competitive Intelligence Professionals (www.scip.org) Annual International Conference in Atlanta, Georgia (4 hours).
+
+***
+
 
 Nov 1999: “Top Mistakes of New Intelligence Analysts” - Article published in Competia Online Magazine.
 
