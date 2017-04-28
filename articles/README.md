@@ -1,5 +1,5 @@
 ***  
-# CONFERENCE PRESENTER & ARTICLES
+### CONFERENCE PRESENTER & ARTICLES
 
 4 May 2011: How Will Al-Qaeda Survive the Death of Osama Bin Laden? Feature article at DefenceIQ.
  
