@@ -1,6 +1,8 @@
 ***  
 ### ARTICLES & CONFERENCE PRESENTATIONS 
 
+9 Apr 2014: **Employment needs of the Oil and Gas industry in Alberta** on Breakfast TV Edmonton (Shaw TV) https://www.youtube.com/watch?v=4wTLN24ESqs - Energy Services Breakfast by @AlbertaOilMag.
+
 4 May 2011: **How Will Al-Qaeda Survive the Death of Osama Bin Laden?** Feature article at DefenceIQ.
  
 27 Apr 2011: **‘Libyanistan’: 5 Strategy Lessons We Should Have Followed – And Still Aren’t.** Feature article at DefenceIQ. 
