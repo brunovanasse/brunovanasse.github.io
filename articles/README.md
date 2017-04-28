@@ -1,9 +1,9 @@
 ***  
 ### ARTICLES & CONFERENCE PRESENTATIONS 
 
-4 May 2011: * How Will Al-Qaeda Survive the Death of Osama Bin Laden? * Feature article at DefenceIQ.
+4 May 2011: **How Will Al-Qaeda Survive the Death of Osama Bin Laden?** Feature article at DefenceIQ.
  
-27 Apr 2011: ‘Libyanistan’: 5 Strategy Lessons We Should Have Followed – And Still Aren’t. Feature article at DefenceIQ. 
+27 Apr 2011: **‘Libyanistan’: 5 Strategy Lessons We Should Have Followed – And Still Aren’t.** Feature article at DefenceIQ. 
 
 27 Oct 2010: “Strategies for the Afghan & Post-Afghan Battlefield” – Webinar recorded for DefenceIQ (they titled it “The Military Mind at War: A PSYOPS Commander’s Strategies for the Post-Afghan Battlefield”).
 
