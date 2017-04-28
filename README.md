@@ -13,6 +13,11 @@ In civilian life, prior to working fulltime for the Canadian Forces in 2005, Bru
 You can find Bruno Vanasse's resume/CV by [downloading this PDF](Bruno_Vanasse.pdf).
 
 
+## Articles and Conference Presentations
+
+Bruno Vanasse's [articles and conference presentations](articles).
+
+
 ## Contact 
 
 You can contact Bruno Vanasse by email at: <bruno.vanasse@gmail.com> 
