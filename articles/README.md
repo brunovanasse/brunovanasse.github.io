@@ -55,9 +55,6 @@
 
 1 April 2000: “Interviewing Techniques for a Competitive Environment: Identifying and Exploiting Human Source Intelligence Effectively and Ethically” - Workshop presented at the Society of Competitive Intelligence Professionals (www.scip.org) Annual International Conference in Atlanta, Georgia (4 hours).
 
-***
-
-
 Nov 1999: “Top Mistakes of New Intelligence Analysts” - Article published in Competia Online Magazine.
 
 Oct 1999: “Basic Interviewing Techniques” - Article published in Competia Online Magazine.
@@ -65,4 +62,6 @@ Oct 1999: “Basic Interviewing Techniques” - Article published in Competia On
 29-30 Jun 1999: “Interview techniques: obtaining human source information” – Workshop presented for EGIDERIA’s clients in Paris, France (12 hours). 
 
 7 Apr 1999: “Interview techniques for competitive intelligence professionals” – Workshop presented to the Economic Development Board of the Montreal Urban Community (now Montréal International – 3 hours).
+
+***  
 
