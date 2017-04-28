@@ -1,7 +1,7 @@
 ***  
 ### ARTICLES & CONFERENCE PRESENTATIONS 
 
-4 May 2011: *How Will Al-Qaeda Survive the Death of Osama Bin Laden?* Feature article at DefenceIQ.
+4 May 2011: * How Will Al-Qaeda Survive the Death of Osama Bin Laden? * Feature article at DefenceIQ.
  
 27 Apr 2011: ‘Libyanistan’: 5 Strategy Lessons We Should Have Followed – And Still Aren’t. Feature article at DefenceIQ. 
 
