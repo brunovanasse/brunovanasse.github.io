@@ -22,5 +22,6 @@ Bruno Vanasse's [articles and conference presentations](articles/README.md).
 
 You can contact Bruno Vanasse by email at: <bruno.vanasse@gmail.com> 
 
+Twitter: [@brunovanasse](https://twitter.com/brunovanasse)
 
 * * *
