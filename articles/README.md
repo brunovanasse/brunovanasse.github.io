@@ -1,7 +1,7 @@
 ***  
 ### ARTICLES & CONFERENCE PRESENTATIONS 
 
-4 May 2011: How Will Al-Qaeda Survive the Death of Osama Bin Laden? Feature article at DefenceIQ.
+4 May 2011: *How Will Al-Qaeda Survive the Death of Osama Bin Laden?* Feature article at DefenceIQ.
  
 27 Apr 2011: ‘Libyanistan’: 5 Strategy Lessons We Should Have Followed – And Still Aren’t. Feature article at DefenceIQ. 
 
@@ -9,7 +9,7 @@
 
 15 Sep 2010: “Putting 'strategy' in communications: the case of Afghanistan” – Guest speaker at Strategic Communications Round-table led by UK Chief of Defence Staff, General David Richards, in London, UK.
 
-23 Jun 2009: “Rethinking Information Activities, Counterinsurgency and Strategy in Afghanistan” – Presentation to Information Operations Europe 2008 Conference, London, UK (40 minutes).
+23 Jun 2009: “Rethinking Information Activities, Counterinsurgency and Strategy in Afghanistan” – Presentation to Information Operations Europe 2009 Conference, London, UK (40 minutes).
 
 2 Jun 2009: “Roundtable 2 - Improving the total operational effect” and “Roundtable 4 - Strengthening this and future campaigns” – Influence Activity perspective presentations at CityForum/UK Land Forces Round-table “Supporting land operations”, London, UK.
 
