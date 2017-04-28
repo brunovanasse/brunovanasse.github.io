@@ -15,7 +15,7 @@ You can find Bruno Vanasse's resume/CV by [downloading this PDF](Bruno_Vanasse.p
 
 ## Articles and Conference Presentations
 
-Bruno Vanasse's [articles and conference presentations](articles).
+Bruno Vanasse's [articles and conference presentations](articles/).
 
 
 ## Contact 
