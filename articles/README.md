@@ -3,7 +3,7 @@
 
 9 Apr 2014: **Employment needs of the Oil and Gas industry in Alberta** on Breakfast TV Edmonton (Shaw TV) - Energy Services Breakfast by @AlbertaOilMag. [YouTube Video by Shaw TV](https://www.youtube.com/watch?v=4wTLN24ESqs)
 
-4 May 2011: **How Will Al-Qaeda Survive the Death of Osama Bin Laden?** Feature article at [DefenceIQ](https://www.defenceiq.com/air-land-and-sea-defence-services/articles/how-will-al-qaeda-survive-the-death-of-osama-bin-l). [PDF](2011-05-03_Al-Qaeda_Bin_Laden_Defence-IQ.pdf)
+4 May 2011: **How Will Al-Qaeda Survive the Death of Osama Bin Laden?** Feature article at [DefenceIQ](https://www.defenceiq.com/air-land-and-sea-defence-services/articles/how-will-al-qaeda-survive-the-death-of-osama-bin-l). [[PDF](2011-05-03_Al-Qaeda_Bin_Laden_Defence-IQ.pdf)]
  
 27 Apr 2011: **‘Libyanistan’: 5 Strategy Lessons We Should Have Followed – And Still Aren’t.** Feature article at DefenceIQ. 
 
