@@ -11,7 +11,7 @@
 
 15 Sep 2010: **“Putting 'strategy' in communications: the case of Afghanistan”** – Guest speaker at Strategic Communications Round-table led by UK Chief of Defence Staff, General David Richards, in London, UK. [[PDF](2010-09-15_Strategy-communications-Afghan-case_BrunoVanasse.com.pdf)]
 
-23 Jun 2009: **“Rethinking Information Activities, Counterinsurgency and Strategy in Afghanistan”** – Presentation to Information Operations Europe 2009 Conference, London, UK (40 minutes). [[PDF Summary](2008-11-08_Radically-Rethinking-Counterinsurgency-Strategy-Afghanistan_brunovanasse.com.pdf)] [[PDF Slides](https://brunovanasse.github.io/2008-11-08_Lt-Col_Bruno_Vanasse_IUS_Canada.pdf)]
+23 Jun 2009: **“Rethinking Information Activities, Counterinsurgency and Strategy in Afghanistan”** – Presentation to Information Operations Europe 2009 Conference, London, UK (40 minutes). [[PDF Summary](2008-11-08_Radically-Rethinking-Counterinsurgency-Strategy-Afghanistan_brunovanasse.com.pdf)] [[PDF Slides](2008-11-08_Lt-Col_Bruno_Vanasse_IUS_Canada.pdf)]
 
 2 Jun 2009: **“Roundtable 2 - Improving the total operational effect”** and **“Roundtable 4 - Strengthening this and future campaigns”** – Influence Activity perspective presentations at CityForum/UK Land Forces Round-table “Supporting land operations”, London, UK.
 
