@@ -43,7 +43,7 @@
 
 8 Dec 2004:  **“Developing a Psychological Operations (PSYOPS) capability: the Canadian experience”** - Presentation to the NATO Joint Senior Psychological Operations Conference, sponsored by the US Joint Special Operations University and Allied Command Operations Headquarters (NATO SHAPE, Brussels), Hurlburt Field, Florida (60 minutes).
 
-7 Sep 2004: **Canadian Psychological Operations (PSYOPS) Training presented on Army News (media interview).** [[PDF](2004-09-07_Canadian-PSYOPS-Training_Army-News_Bruno_Vanasse.com)]
+7 Sep 2004: **Canadian Psychological Operations (PSYOPS) Training presented on Army News (media interview).** [[PDF](2004-09-07_Canadian-PSYOPS-Training_Army-News_Bruno_Vanasse.com.pdf)]
 
 4 June 2004: **“Developing Psychological Operations in the Canadian Forces”** – Presentation to CANUS Information Operations Military Cooperation Committee, Toronto, ON.
 
@@ -61,13 +61,15 @@
 
 1 April 2000: **“Interviewing Techniques for a Competitive Environment: Identifying and Exploiting Human Source Intelligence Effectively and Ethically”** - Workshop presented at the Society of Competitive Intelligence Professionals (www.scip.org) Annual International Conference in Atlanta, Georgia (4 hours).
 
-Nov 1999: **“Top Mistakes of New Intelligence Analysts”** - Article published in Competia Online Magazine.
+Nov 1999: **“Top Mistakes of New Intelligence Analysts”** - Article published in Competia Online Magazine. [[PDF](1999-03-01_Top-Mistakes-New-Intelligence-Analysts_BrunoVanasse.com.pdf)]
 
-Oct 1999: **“Basic Interviewing Techniques”** - Article published in Competia Online Magazine.
+Oct 1999: **“Basic Interviewing Techniques”** - Article published in Competia Online Magazine. [[PDF](1999-02-01_Basic_Interviewing_Techniques_BrunoVanasse.com.pdf)]
 
 29-30 Jun 1999: **“Interview techniques: obtaining human source information”** – Workshop presented for EGIDERIA’s clients in Paris, France (12 hours). 
 
 7 Apr 1999: **“Interview techniques for competitive intelligence professionals”** – Workshop presented to the Economic Development Board of the Montreal Urban Community (now Montréal International – 3 hours).
+
+28 Oct 1998: **“10 practical tips for setting up an Intelligence Cell”** - Article published at HumanSource. [[PDF](1998-10-28_10-practical-tips-Intelligence-Cell_BrunoVanasse.com.pdf)]
 
 ***  
 
