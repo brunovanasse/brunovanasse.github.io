@@ -25,3 +25,7 @@ You can contact Bruno Vanasse by email at: <bruno.vanasse@gmail.com>
 Twitter: [@brunovanasse](https://twitter.com/brunovanasse)
 
 * * *
+
+[[back to main page](https://brunovanasse.github.io)]
+
+* * *
