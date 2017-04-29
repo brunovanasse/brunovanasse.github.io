@@ -1,5 +1,5 @@
 ***  
-### ARTICLES & CONFERENCE PRESENTATIONS BY BRUNO VANASSE [back to Main Page](https://brunovanasse.github.io)
+### ARTICLES & CONFERENCE PRESENTATIONS BY BRUNO VANASSE [[back to main page](https://brunovanasse.github.io)]
 
 9 Apr 2014: **Employment needs of the Oil and Gas industry in Alberta** on Breakfast TV Edmonton (Shaw TV) - Energy Services Breakfast by @AlbertaOilMag. [YouTube Video by Shaw TV](https://www.youtube.com/watch?v=4wTLN24ESqs)
 
