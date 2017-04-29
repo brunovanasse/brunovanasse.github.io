@@ -31,6 +31,8 @@
 
 4 May 2007: **“Countering Hostile Propaganda in Afghanistan”** - Presentation to NATO PSYOPS Conference, Tallinn, Estonia (60 minutes).
 
+15 Mar 2007: **Campaign Assessment Afghanistan March 2007** - After Action Report. [[PDF](2007-03-15_Campaign-Assessment-Afghanistan_BrunoVanasse.com.pdf)]
+
 29 Nov 2005: **“Psychological Operations in Modern Warfare”** – Presentation to Command Staff Course, Canadian Forces College, Toronto (60 minutes).
 
 5 Oct 2005: **“Canadian Psychological Operations: The Way Ahead”** - Presentation to the NATO Joint Senior Psychological Operations Conference, sponsored by the US Joint Special Operations University and Allied Command Operations Headquarters (NATO SHAPE, Brussels), Hurlburt Field, Florida (60 minutes).
@@ -40,6 +42,8 @@
 6 Jul 2005: **“Psychological Operations in the Canadian Forces”** – Presentation to Information Operations Europe 2005, Malvern, UK.
 
 8 Dec 2004:  **“Developing a Psychological Operations (PSYOPS) capability: the Canadian experience”** - Presentation to the NATO Joint Senior Psychological Operations Conference, sponsored by the US Joint Special Operations University and Allied Command Operations Headquarters (NATO SHAPE, Brussels), Hurlburt Field, Florida (60 minutes).
+
+7 Sep 2004: **Canadian Psychological Operations (PSYOPS) Training presented on Army News (media interview).** [[PDF](2004-09-07_Canadian-PSYOPS-Training_Army-News_Bruno_Vanasse.com)]
 
 4 June 2004: **“Developing Psychological Operations in the Canadian Forces”** – Presentation to CANUS Information Operations Military Cooperation Committee, Toronto, ON.
 
