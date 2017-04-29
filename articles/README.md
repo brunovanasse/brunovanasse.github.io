@@ -69,7 +69,7 @@ Oct 1999: **“Basic Interviewing Techniques”** - Article published in Competi
 
 ## Resume
 
-You can find Bruno Vanasse's resume/CV by [downloading this PDF](Bruno_Vanasse.pdf).
+You can find Bruno Vanasse's resume/CV by [downloading this PDF](https://brunovanasse.github.io/Bruno_Vanasse.pdf).
 
 
 ## Contact 
