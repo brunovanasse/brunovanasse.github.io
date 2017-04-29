@@ -7,7 +7,7 @@
  
 27 Apr 2011: **‘Libyanistan’: 5 Strategy Lessons We Should Have Followed – And Still Aren’t.** Feature article at [DefenceIQ](https://www.defenceiq.com/air-land-and-sea-defence-services/articles/libyafghanistan-5-strategies-we-should-have-follo). [[PDF](2011-04-26_Libyanistan_Defence-IQ.pdf)]
 
-27 Oct 2010: **“Strategies for the Afghan & Post-Afghan Battlefield”** – Webinar recorded for DefenceIQ (they titled it **“The Military Mind at War: A PSYOPS Commander’s Strategies for the Post-Afghan Battlefield”**).
+27 Oct 2010: **“Strategies for the Afghan & Post-Afghan Battlefield”** – Webinar recorded for [DefenceIQ](https://www.defenceiq.com/army-and-land-forces/webinars/the-military-mind-at-war-a-psyops-commander-s-stra) (they titled it **“The Military Mind at War: A PSYOPS Commander’s Strategies for the Post-Afghan Battlefield”**). [[PDF](2010-10-27_Strategies-Post-Afghan-Battlefield_BrunoVanasse.com.pdf)]
 
 15 Sep 2010: **“Putting 'strategy' in communications: the case of Afghanistan”** – Guest speaker at Strategic Communications Round-table led by UK Chief of Defence Staff, General David Richards, in London, UK.
 
