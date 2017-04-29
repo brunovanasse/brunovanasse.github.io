@@ -9,9 +9,9 @@
 
 27 Oct 2010: **“Strategies for the Afghan & Post-Afghan Battlefield”** – Webinar recorded for [DefenceIQ](https://www.defenceiq.com/army-and-land-forces/webinars/the-military-mind-at-war-a-psyops-commander-s-stra) (they titled it **“The Military Mind at War: A PSYOPS Commander’s Strategies for the Post-Afghan Battlefield”**). [[PDF](2010-10-27_Strategies-Post-Afghan-Battlefield_BrunoVanasse.com.pdf)]
 
-15 Sep 2010: **“Putting 'strategy' in communications: the case of Afghanistan”** – Guest speaker at Strategic Communications Round-table led by UK Chief of Defence Staff, General David Richards, in London, UK.
+15 Sep 2010: **“Putting 'strategy' in communications: the case of Afghanistan”** – Guest speaker at Strategic Communications Round-table led by UK Chief of Defence Staff, General David Richards, in London, UK.[[PDF](2010-09-15_Strategy-communications-Afghan-case_BrunoVanasse.com.pdf)]
 
-23 Jun 2009: **“Rethinking Information Activities, Counterinsurgency and Strategy in Afghanistan”** – Presentation to Information Operations Europe 2009 Conference, London, UK (40 minutes).
+23 Jun 2009: **“Rethinking Information Activities, Counterinsurgency and Strategy in Afghanistan”** – Presentation to Information Operations Europe 2009 Conference, London, UK (40 minutes).[[PDF Summary](2008-11-08_Radically-Rethinking-Counterinsurgency-Strategy-Afghanistan_brunovanasse.com.pdf)] [[PDF Slides](https://brunovanasse.github.io/2008-11-08_Lt-Col_Bruno_Vanasse_IUS_Canada.pdf)]
 
 2 Jun 2009: **“Roundtable 2 - Improving the total operational effect”** and **“Roundtable 4 - Strengthening this and future campaigns”** – Influence Activity perspective presentations at CityForum/UK Land Forces Round-table “Supporting land operations”, London, UK.
 
