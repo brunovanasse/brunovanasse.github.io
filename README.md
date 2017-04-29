@@ -10,7 +10,7 @@ In civilian life, prior to working fulltime for the Canadian Forces in 2005, Bru
 
 ## Resume
 
-You can find Bruno Vanasse's resume/CV by[downloading this PDF](Bruno_Vanasse.pdf).
+You can find Bruno Vanasse's resume/CV by [downloading this PDF](Bruno_Vanasse.pdf).
 
 
 ## Articles and Conference Presentations
