@@ -22,7 +22,7 @@ Bruno Vanasse's [articles and conference presentations](articles/README.md).
 
 ### Contact 
 
-You can contact Bruno Vanasse by email at: <bruno.vanasse@gmail.com> 
+You can contact Bruno Vanasse by email by using this Google Email Form: https://goo.gl/forms/WWIFVmJWinXoz7F93
 
 LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
