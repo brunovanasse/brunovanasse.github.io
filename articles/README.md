@@ -82,7 +82,7 @@ You can find Bruno Vanasse's resume/CV by [downloading this PDF](https://brunova
 
 ## Contact 
 
-You can contact Bruno Vanasse by email at: <bruno.vanasse@gmail.com> 
+You can contact Bruno Vanasse by email by using this Google Email Form: https://goo.gl/forms/WWIFVmJWinXoz7F93
 
 Twitter: [@brunovanasse](https://twitter.com/brunovanasse)
 
