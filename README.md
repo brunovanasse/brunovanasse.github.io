@@ -12,12 +12,12 @@ Bruno also worked as a consultant for the HayGroup, an international management 
 
 ### Resume
 
-You can find Bruno Vanasse's resume/CV by [downloading this PDF](Bruno_Vanasse.pdf).
+[Bruno Vanasse's resume/CV](Bruno_Vanasse.pdf).
 
 
 ### Articles and Conference Presentations
 
-Bruno Vanasse's [articles and conference presentations](articles/README.md).
+[Bruno Vanasse's articles and conference presentations](articles/README.md).
 
 
 ### Contact 
