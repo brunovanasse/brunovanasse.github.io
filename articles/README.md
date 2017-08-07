@@ -77,7 +77,7 @@ Oct 1999: **“Basic Interviewing Techniques”** - Article published in Competi
 
 ## Resume
 
-[Bruno Vanasse's resume/CV](Bruno_Vanasse.pdf).
+[Bruno Vanasse's resume/CV](https://brunovanasse.github.io/Bruno_Vanasse.pdf).
 
 
 ## Contact 
