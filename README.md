@@ -22,7 +22,7 @@ Bruno also worked as a consultant for the HayGroup, an international management 
 
 ### Contact 
 
-You can contact Bruno Vanasse by email by using this Google Email Form: [https://goo.gl/forms/6frBz9oLjxXdw8sG3](https://goo.gl/forms/WWIFVmJWinXoz7F93) 
+By email: [bruno.vanasse@gmail.com](bruno.vanasse@gmail.com) 
 
 LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
