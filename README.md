@@ -22,7 +22,7 @@ Bruno also worked as a consultant for the HayGroup, an international management 
 
 ### Contact 
 
-By email: [bruno.vanasse@gmail.com](bruno.vanasse@gmail.com) 
+By email: <bruno.vanasse@gmail.com>
 
 LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
