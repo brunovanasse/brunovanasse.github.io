@@ -1,7 +1,7 @@
 * * *
 ## Bruno Vanasse - M.Ps.(I-O Psych), CD
 
-Bruno is an entrepreneur, a Canadian Army Lieutenant-Colonel (ret'd), university faculty and scholar, with expertise in leadership, strategy and influence. He has been a full-time faculty in the Department of Organizational Behaviour, Human Resources Management and Management in the School of Business at MacEwan University since Nov 2013, and has a Masters in Industrial-Organizational Psychology from Université du Québec à Montréal. 
+Bruno is an entrepreneur, a Canadian Army Lieutenant-Colonel (ret'd), university faculty and globetrotter, with expertise in leadership, strategy and influence. He has been a full-time faculty in the Department of Organizational Behaviour, Human Resources Management and Management in the School of Business at MacEwan University since Nov 2013, and has a Masters in Industrial-Organizational Psychology from Université du Québec à Montréal. 
 
 Bruno retired at the rank of Lieutenant-Colonel from the Canadian Army Reserves (Intelligence) in Aug 2015 after 30 years of service and four overseas operational deployments. He officially stood up the Canadian Psychological Operations (PSYOPS) Group in Jan 2004, a new capability for the Canadian Forces, was its first Commanding Officer until Aug 2009, achieving its mission by selecting, training, deploying and supporting hundreds of PSYOPS military personnel on overseas operations over that time frame. PSYOPS constitute a planned process of conveying messages to selected target audiences promoting particular themes that result in desired attitudes and behaviour that affect the achievement of political and military objectives.   
 
