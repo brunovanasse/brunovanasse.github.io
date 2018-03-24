@@ -84,7 +84,9 @@ Oct 1999: **“Basic Interviewing Techniques”** - Article published in Competi
 
 You can contact Bruno Vanasse by email by using this Google Email Form: [https://goo.gl/forms/WWIFVmJWinXoz7F93](https://goo.gl/forms/WWIFVmJWinXoz7F93) 
 
-Twitter: [@brunovanasse](https://twitter.com/brunovanasse)
+By email: <bruno.vanasse@gmail.com>
+
+LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
 * * *
 
