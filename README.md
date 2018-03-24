@@ -1,5 +1,5 @@
 * * *
-## Bruno Vanasse - M.Ps.(I-O Psych), CD
+## Bruno Vanasse - Masters in Industrial-Organizational Psychology (M.Ps.), CD
 
 I am an entrepreneur, a Canadian Army Lieutenant-Colonel (Ret'd), university faculty and globetrotter, with expertise in leadership, strategy and influence. I have been a full-time faculty in the Department of Organizational Behaviour, Human Resources Management and Management in the School of Business at MacEwan University since Nov 2013, and have a Masters in Industrial-Organizational Psychology from Université du Québec à Montréal. 
 
