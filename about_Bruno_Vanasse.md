@@ -24,6 +24,8 @@ You can contact Bruno Vanasse by email by using this Google Email Form: [https:/
 
 Twitter: [@brunovanasse](https://twitter.com/brunovanasse)
 
+LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
+
 * * *
 
 [[back to main page](https://brunovanasse.github.io)]
