@@ -19,7 +19,9 @@ I also worked as a consultant for the HayGroup, an international management cons
 
 ### Contact 
 
-By email: <bruno.vanasse@gmail.com>
+Email: <bruno.vanasse@gmail.com>
+
+Twitter: @brunovanasse
 
 LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
