@@ -1,7 +1,7 @@
 * * *
-## Bruno Vanasse
+# Bruno Vanasse
 
-### Summary
+## Summary
 
 * Independent Behavioral / Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.). 
 * Expertise in leadership, strategy, intelligence, influence, statistics and data science. 
@@ -9,7 +9,7 @@
 * Former full-time university faculty at MacEwan University (School of Business), and Royal Military College of Canada (Dept. Psychology & Leadership). 
 * #DataScience #ML #AI #Bayes #rstats
 
-### Bio
+## Bio
 
 I am an entrepreneur, a Canadian Army Lieutenant-Colonel (Ret'd), former university faculty at two universities and globetrotter, with expertise in leadership, strategy, intelligence, influence, statistics and data science. I have been a full-time faculty in the Department of Organizational Behaviour, Human Resources Management and Management in the School of Business at MacEwan University from Nov 2013 to Sep 2018. I have a Masters in Industrial-Organizational Psychology from Université du Québec à Montréal and am a graduate of Joint Command & Staff Programme (JCSP) at the Canadian Forces College.
 
@@ -19,15 +19,15 @@ My expertise in influence, PSYOPS, Information Operations, Strategic Communicati
  
 I also worked as a consultant for the HayGroup, an international management consulting firm, from Jan 2000 to May 2002, and later as a full-time lecturer in Psychology and Leadership at the Royal Military College of Canada, from Jun 2002 to Feb 2004. I was Commanding Officer of the 4th Intelligence Company in Montreal from 1999 to 2002. In 1998, I started and ran HumanSource Inc until 2004, one of the first Canadian consulting firms dedicated to Strategic and Competitive Intelligence. 
 
-### Resume
+## Resume
 
 [Bruno Vanasse's resume/CV](Bruno_Vanasse.pdf).
 
-### Articles and Conference Presentations
+## Articles and Conference Presentations
 
 [Bruno Vanasse's articles and conference presentations](articles/README.md).
 
-### Contact 
+## Contact 
 
 Email: <bruno.vanasse@gmail.com>
 
