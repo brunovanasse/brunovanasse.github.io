@@ -1,5 +1,11 @@
 * * *
-## Bruno Vanasse - Masters in Industrial-Organizational Psychology (M.Ps.), CD
+## Bruno Vanasse
+
+* Independent Behavioral / Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.). 
+* Expertise in leadership, strategy, intelligence, influence, statistics and data science. 
+* Founder/Commander Canadian PSYOPS (2003-2009), Lieutenant-Colonel (Ret'd) Canadian Army (Intelligence), CD.
+* Former full-time university faculty at MacEwan University (School of Business), and Royal Military College of Canada (Dept. Psychology & Leadership). 
+* #DataScience #ML #AI #Bayes #rstats
 
 I am an entrepreneur, a Canadian Army Lieutenant-Colonel (Ret'd), former university faculty at two universities and globetrotter, with expertise in leadership, strategy, intelligence and influence. I have been a full-time faculty in the Department of Organizational Behaviour, Human Resources Management and Management in the School of Business at MacEwan University from Nov 2013 to Sep 2018. I have a Masters in Industrial-Organizational Psychology from Université du Québec à Montréal and am a graduate of Joint Command & Staff Programme (JCSP) at the Canadian Forces College.
 
