@@ -33,11 +33,11 @@ Bruno Vanasse's [articles and conference presentations](articles/README.md).
 
 ## Contact 
 
-Email: bruno.vanasse@gmail.com
+Email: <bruno.vanasse@gmail.com>
 
 LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
-Home Page: https://brunovanasse.github.io
+Home Page: [https://brunovanasse.github.io](https://brunovanasse.github.io)
 
 * * *
 
