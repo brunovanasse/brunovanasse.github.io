@@ -33,13 +33,11 @@ Bruno Vanasse's [articles and conference presentations](articles/README.md).
 
 ## Contact 
 
-You can contact Bruno Vanasse by email by using this Google Email Form: [https://goo.gl/forms/WWIFVmJWinXoz7F93](https://goo.gl/forms/WWIFVmJWinXoz7F93) 
-
-Twitter: [@brunovanasse](https://twitter.com/brunovanasse)
+Email: bruno.vanasse@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
-You can also contact me by email by using this secure Google Email Form: [https://goo.gl/forms/WWIFVmJWinXoz7F93](https://goo.gl/forms/WWIFVmJWinXoz7F93) 
+Home Page: https://brunovanasse.github.io
 
 * * *
 
