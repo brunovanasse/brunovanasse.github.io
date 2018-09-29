@@ -32,10 +32,8 @@ I also worked as a consultant for the HayGroup, an international management cons
 
 Email: <bruno.vanasse@gmail.com>
 
-Twitter: [@brunovanasse](https://twitter.com/brunovanasse)
-
 LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
-You can also contact me by email by using this secure Google Email Form: [https://goo.gl/forms/WWIFVmJWinXoz7F93](https://goo.gl/forms/WWIFVmJWinXoz7F93) 
+Home Page: https://brunovanasse.github.io
 
 * * *
