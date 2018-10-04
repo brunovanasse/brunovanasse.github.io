@@ -4,7 +4,7 @@
 
 ## Summary
 
-* Independent Behavioral / Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.). 
+* Behavioral / Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.). 
 * Expertise in leadership, strategy, intelligence, influence, statistics and data science. 
 * Founder/Commander Canadian PSYOPS (2003-2009), Lieutenant-Colonel (Ret'd) Canadian Army (Intelligence), CD.
 * Former full-time university faculty at MacEwan University (School of Business), and Royal Military College of Canada (Dept. Psychology & Leadership). 
