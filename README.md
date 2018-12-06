@@ -8,7 +8,8 @@
 * Founder/Commander Canadian PSYOPS (2003-2009), Lieutenant-Colonel (Ret'd) Canadian Army (Intelligence), CD.
 * Former full-time university faculty at MacEwan University (School of Business), and Royal Military College of Canada (Dept. Psychology & Leadership). 
 * Founded one of the first Canadian consulting firms dedicated to Strategic/Customer/Competitive Intelligence.
-* Natural and Artificial Intelligence research interests since 1994; #DataScience #ML #AI #Bayes #rstats .
+* Natural and Artificial Intelligence research interests since 1994 (categorization in unsupervised neural networks). 
+* #DataScience #ML #AI #Bayes #rstats
 
 ## Bio
 
