@@ -8,7 +8,7 @@
 * Founder/Commander Canadian PSYOPS (2003-2009), Lieutenant-Colonel (Ret'd) Canadian Army (Intelligence), CD.
 * Former full-time university faculty at MacEwan University (School of Business), and Royal Military College of Canada (Dept. Psychology & Leadership). 
 * Founded one of the first Canadian consulting firms dedicated to Strategic/Customer/Competitive Intelligence.
-* #DataScience #ML #AI #Bayes #rstats 
+* Natural and Artificial Intelligence research interests since 1994; #DataScience #ML #AI #Bayes #rstats .
 
 ## Bio
 
@@ -18,7 +18,7 @@ I retired at the rank of Lieutenant-Colonel from the Canadian Army Reserves (Int
 
 My expertise in influence, PSYOPS, Information Operations, Strategic Communications, Counter-Propaganda, Strategy and Counterinsurgency has been sought internationally, as an invited guest speaker by US Joint Special Operations University, NATO (SHAPE), the Royal Military College of Canada, several Information Operations Conferences in Europe, the Canadian Forces College, Defence Research & Development Canada, the Canadian Special Operations Regiment, the Institute for Military Operations of the Royal Danish Defence College, CityForum’s “Supporting Land Operations” roundtable sponsored by the UK Land Forces and the “Strategic Communications” roundtable chaired by the UK Chief of Defence Staff in London, UK.
  
-I also worked as a consultant for the HayGroup, an international management consulting firm, from Jan 2000 to May 2002. I was Commanding Officer of the 4th Intelligence Company in Montreal from 1999 to 2002. In 1998, I started and ran HumanSource Inc until 2004, one of the first Canadian consulting firms dedicated to Strategic/Customer/Competitive Intelligence. 
+I also worked as a consultant for the HayGroup, an international management consulting firm, from Jan 2000 to May 2002. I was Commanding Officer of the 4th Intelligence Company in Montreal from 1999 to 2002. In 1998, I started and ran HumanSource Inc until 2004, one of the first Canadian consulting firms dedicated to Strategic/Customer/Competitive Intelligence. Research assistant at the Research Laboratory on Natural and Artificial Intelligence (LEINA) Université du Québec à Montréal (UQAM) from 1994-97, exploring categorization in unsupervised artificial neural networks.
 
 ## Resume
 
