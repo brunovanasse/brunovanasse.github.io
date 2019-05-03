@@ -9,7 +9,7 @@
 * Former full-time university faculty at MacEwan University (School of Business), and Royal Military College of Canada (Dept. Psychology & Leadership). 
 * Founded one of the first Canadian consulting firms dedicated to Strategic/Competitive Intelligence in 1998.
 * Natural and Artificial Intelligence research experience since 1994 (categorization in unsupervised neural networks). 
-* #DataScience #ML #AI #Bayes #python
+* #DataScience #ML #AI #Stats #Bayes #python
 
 ## Bio
 
