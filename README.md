@@ -1,7 +1,7 @@
 * * *
 # Bruno Vanasse
 
-## Bio - Summary
+## Summary Bio
 
 * Behavioral / Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.) from Université du Québec à Montréal (UQAM), and graduate of Joint Command & Staff Programme (JCSP) at the Canadian Forces College. 
 * Expertise in leadership, strategy, intelligence, influence, statistics and data science. 
