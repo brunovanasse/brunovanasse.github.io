@@ -10,7 +10,7 @@
 * Management consultant for the HayGroup (2000-02, now named Korn Ferry Hay Group) and founded one of the first Canadian consulting firms dedicated to Strategic/Competitive Intelligence in 1998.
 * Artificial Intelligence research (1994-97, categorization in unsupervised artificial neural networks at UQAM university AI research lab). 
 * Fluent in English, French and Spanish.
-* #DataScience #ML #AI #Stats #Bayes #python
+* #DataScience #ML #AI #Stats #Bayes #rstats
 
 ## Resume
 
