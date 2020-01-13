@@ -7,7 +7,7 @@
 * Expertise in leadership, strategy, intelligence, influence, statistics and data science. 
 * Lieutenant-Colonel (Ret'd, CD) Canadian Army Reserves (Intelligence) retired in 2015: Founder/Commander Canadian PSYOPS (2003-2009), Commander 4<sup>th</sup> Intelligence Company, Afghanistan and Bosnia veteran, with four overseas operational deployments.
 * Former full-time university faculty at MacEwan University School of Business (2013-18), and at the Dept. Psychology & Leadership of the Royal Military College of Canada (2002-04). 
-* Management consultant for the HayGroup (2000-02, now named Korn Ferry Hay Group) and founded one of the first Canadian consulting firms dedicated to Strategic/Competitive Intelligence in 1998.
+* Management consultant for the HayGroup (2000-02; HayGroup now part of Korn Ferry) and founded one of the first Canadian consulting firms dedicated to Strategic/Competitive Intelligence in 1998.
 * Artificial Intelligence research (1994-97, categorization in unsupervised artificial neural networks at UQAM university AI research lab). 
 * Fluent in English, French and Spanish.
 * #DataScience #ML #AI #Stats #Bayes #rstats
