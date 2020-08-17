@@ -3,7 +3,7 @@
 
 ## Career Summary
 
-* Behavioral / Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.) from Université du Québec à Montréal (UQAM), and graduate of the Joint Command & Staff Programme (JCSP) at the Canadian Forces College. 
+* Strategy and Risk Professional, Behavioral / Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.) from Université du Québec à Montréal (UQAM), and graduate of the Joint Command & Staff Programme (JCSP) at the Canadian Forces College. 
 * Expertise in leadership, strategy, intelligence, influence, statistics and data science. 
 * Lieutenant-Colonel (Ret'd, CD) Canadian Army Reserves (Intelligence) retired in 2015: Founder/Commander Canadian PSYOPS (2003-2009), Commander 4<sup>th</sup> Intelligence Company, Afghanistan and Bosnia veteran, with four overseas operational deployments.
 * Former full-time university faculty at MacEwan University School of Business (2013-18), and at the Dept. Psychology & Leadership of the Royal Military College of Canada (2002-04). 
