@@ -20,17 +20,9 @@ His expertise on PSYOPS, Information Operations, Strategic Communications, Strat
  
 In civilian life, prior to working fulltime for the Canadian Forces in 2005, Bruno worked as a consultant for the HayGroup, an international management consulting firm, and later as a fulltime lecturer in Psychology and Leadership at the Royal Military College of Canada. In 1998, he started one of the first Canadian consulting firms dedicated Business and Competitive Intelligence, HumanSource. 
 
-## Resume
-
-[Bruno Vanasse's resume/CV](Bruno_Vanasse.pdf).
-
-## Articles and Conference Presentations
-
-[Bruno Vanasse's articles and conference presentations](articles/README.md).
-
 ## Contact 
 
-Email: <bruno.vanasse@gmail.com>
+Web Contact Form: [https://forms.gle/o29aKTZFN9G36T6W8 ](https://forms.gle/o29aKTZFN9G36T6W8) 
 
 LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
