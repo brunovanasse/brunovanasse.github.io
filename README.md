@@ -5,7 +5,7 @@
 
 ***Lieutenant-Colonel (Ret'd), Canadian Army Intelligence<br>
 University Faculty (Ret'd)<br>
-Entrepreneur (Ret'd).***<br>
+Entrepreneur (Ret'd)***<br>
 
 * Strategy and Risk Professional, Behavioral / Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.) from Université du Québec à Montréal (UQAM), and graduate of the Joint Command & Staff Programme (JCSP) at the Canadian Forces College. 
 * Expertise in leadership, strategy, intelligence, influence, statistics and data science. 
@@ -18,7 +18,7 @@ Entrepreneur (Ret'd).***<br>
 
 ## Bio
 
-Bruno Vanasse has been a full-time faculty at the MacEwan University School of Business, from November 2013 to September 2018. Bruno is a retired Lieutenant-Colonel from the Canadian Army Reserves since August 2015. An Army Intelligence officer, he officially stood up the Canadian PSYOPS Capability in January 2004 and was its first Commanding Officer while also Deputy Director PSYOPS until 2009. He was also Commander of  the 4th Intelligence Company in Montreal from 1999 to 2002.
+Bruno Vanasse has been a full-time faculty at the MacEwan University School of Business, from November 2013 to September 2018. Bruno is a retired Lieutenant-Colonel from the Canadian Army Reserves since August 2015. An Army Intelligence officer, he officially stood up the Canadian PSYOPS Capability in January 2004 and was its first Commanding Officer while also Deputy Director PSYOPS until 2009. He was also Commander of the 4th Intelligence Company in Montreal from 1999 to 2002.
 
 His expertise on PSYOPS, Information Operations, Strategic Communications, Strategy and Counterinsurgency has been sought internationally, as an invited guest speaker by US Joint Special Operations University, NATO (SHAPE), the Royal Military College of Canada, several Information Operations Europe Conferences, the Canadian Forces College, Defence Research & Development Canada, the Canadian Special Operations Regiment, the Institute for Military Operations of the Royal Danish Defence College, CityForum’s “Supporting Land Operations” 2009 roundtable sponsored by the UK Land Forces and the 2010 “Strategic Communications” roundtable chaired by the UK Chief of Defence Staff in London UK.
  
