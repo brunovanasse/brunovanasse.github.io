@@ -3,9 +3,9 @@
 
 ## Career Summary
 
-***Lieutenant-Colonel (Ret'd), Canadian Army Intelligence<br>
-University Faculty (Ret'd)<br>
-Entrepreneur (Ret'd)***<br>
+***- Lieutenant-Colonel (Ret'd), Canadian Army Intelligence<br>
+- University Faculty (Ret'd)<br>
+- Entrepreneur (Ret'd)***<br>
 
 * Strategy and Risk Professional, Behavioral / Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.) from Université du Québec à Montréal (UQAM), and graduate of the Joint Command & Staff Programme (JCSP) at the Canadian Forces College. 
 * Expertise in leadership, strategy, intelligence, influence, statistics and data science. 
