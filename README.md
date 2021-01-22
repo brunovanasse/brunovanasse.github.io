@@ -27,7 +27,7 @@ In civilian life, prior to working fulltime for the Canadian Forces in 2005, Bru
 
 ## Contact 
 
-Contact Bruno via this Web Contact Form: [https://forms.gle/o29aKTZFN9G36T6W8 ](https://forms.gle/o29aKTZFN9G36T6W8) 
+Contact Bruno via this Google Forms page: [https://forms.gle/o29aKTZFN9G36T6W8 ](https://forms.gle/o29aKTZFN9G36T6W8) 
 
 LinkedIn: [https://www.linkedin.com/in/brunovanasse](https://www.linkedin.com/in/brunovanasse)
 
