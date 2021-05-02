@@ -18,7 +18,7 @@ Entrepreneur (Ret'd)***<br>
 
 ## Bio
 
-I was a full-time faculty at the MacEwan University School of Business, from November 2013 to October 2015. I am also a retired Lieutenant-Colonel from the Canadian Army Reserves since August 2015. An Army Intelligence officer, I am also the founder of the Canadian PSYOPS Capability starting in January 2004 and was its first Commanding Officer, while also Deputy Director PSYOPS for the Canadian Forces, until August 2009. I was also Commander of the 4th Intelligence Company in Montreal from 1999 to 2002.
+I was a full-time faculty at the MacEwan University School of Business, from Nov 2013 to Aug 2015. I am also a retired Lieutenant-Colonel from the Canadian Army Reserves since Aug 2015. An Army Intelligence officer, I am also the founder of the Canadian PSYOPS Capability starting in Jan 2004 and was its first Commanding Officer, while also Deputy Director PSYOPS for the Canadian Forces, until Aug 2009. I was also Commander of the 4th Intelligence Company in Montreal from 1999 to 2002.
 
 My expertise on PSYOPS, Information Operations, Strategic Communications and Strategy has been sought internationally, as an invited guest speaker by US Joint Special Operations University, NATO (SHAPE), the Royal Military College of Canada, several Information Operations Europe Conferences, the Canadian Forces College, Defence Research & Development Canada, the Canadian Special Operations Regiment, the Institute for Military Operations of the Royal Danish Defence College, CityForum’s “Supporting Land Operations” roundtable sponsored by the UK Land Forces and the “Strategic Communications” roundtable chaired by the UK Chief of Defence Staff in London UK.
  
