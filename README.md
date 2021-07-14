@@ -7,7 +7,8 @@
 University Faculty (Ret'd)<br>
 Entrepreneur (Ret'd)***<br>
 
-* Retired since 2015. Expertise in leadership, strategy, intelligence & influence.
+* Globetrotter. Retired since 2015.
+* Expertise in leadership, strategy, intelligence & influence.
 * Behavioural & Data Scientist, Masters in Industrial-Organizational Psychology (M.Ps.), and graduate of the Joint Command & Staff Programme (JCSP) at the Canadian Forces College.
 * Founder & Commander Canadian Forces Psychological Operations Group (PSYOPS; 2003-2009); Afghanistan and Bosnia veteran, with a total of four overseas operational deployments; Commander 4th Intelligence Company (1999-2002).
 * Full-time university faculty at MacEwan University School of Business (2013-15), and the Dept. Psychology & Leadership of the Royal Military College of Canada (2002-04).
