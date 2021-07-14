@@ -3,7 +3,8 @@
 
 ## Career Summary
 
-> ***Lieutenant-Colonel (Ret'd), Canadian Army Intelligence<br>
+> ***Globetrotter<br>
+Lieutenant-Colonel (Ret'd), Canadian Army Intelligence<br>
 University Faculty (Ret'd)<br>
 Entrepreneur (Ret'd)***<br>
 
