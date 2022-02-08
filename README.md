@@ -2,10 +2,10 @@
 # Bruno Vanasse
 
 ## Profile Summary
-* Hiker, flâneur, retired. 
-* Lieutenant-Colonel (Ret'd), Canadian Army; Afghanistan and Bosnia veteran with four overseas deployments. 
-* Full-time University Faculty (Ret'd)
-* Masters in Industrial-Organizational Psychology (M.Ps.), and graduate of the Joint Command & Staff Programme (JCSP) at the Canadian Forces College.
+* Hiker, voyager, retired. 
+* Lieutenant-Colonel (Ret'd), Canadian Army Intelligence; Afghanistan and Bosnia veteran with four overseas deployments. 
+* Masters in Industrial-Organizational Psychology (M.Ps.) at UQAM, and graduate of the Joint Command & Staff Programme (JCSP) at the Canadian Forces College.
+* Full-time University Faculty (Ret'd), MacEwan University School of Business, and Royal Military College of Canada.
 
 ## Contact 
 
