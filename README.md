@@ -1,5 +1,4 @@
 * * *
-# Bruno Vanasse
 
 ## Profile Summary
 * Nomad, hiker, globetrotter.
