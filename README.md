@@ -1,9 +1,9 @@
 * * *
 
 ### Profile Summary
-* Hiker, Nomad, Veteran - retired and exploring the world: locations, cultures, experiences, skills and ideas.
-* Full-time University Faculty (Ret'd), MacEwan University and Royal Military College of Canada. Masters in Industrial-Organizational Psychology (M.Ps.).
-* Lieutenant-Colonel (Ret'd), Canadian Army Reserves, with four overseas deployments.
+* Hiker, nomad, veteran.
+* Full-time University Faculty (Retd), MacEwan University and Royal Military College of Canada. Masters in Industrial-Organizational Psychology (M.Ps.).
+* Lieutenant-Colonel (Retd), Canadian Army Intelligence, with four overseas deployments.
 
 ### Contact 
 
