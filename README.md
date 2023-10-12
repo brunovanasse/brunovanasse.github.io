@@ -2,8 +2,11 @@
 
 ### Profile Summary
 * Hiker, nomad, veteran.
-* Full-time University Faculty (Retd), MacEwan University and Royal Military College of Canada. Masters in Industrial-Organizational Psychology (M.Ps.).
-* Lieutenant-Colonel (Retd), Canadian Army Intelligence, with four overseas deployments.
+* Full-time University Faculty (Retd), MacEwan University and Royal Military College of Canada. Masters in Industrial & Organizational Psychology.
+* Lieutenant-Colonel (Retd), Canadian Army Intelligence, with four overseas operational deployments. Graduate of the Joint Command Staff Programme (JCSP) at Canadian Forces College.
+* Founder and first Commanding Officer (CO) of Canadian Psychological Operations (PSYOPS). Former CO of 4th Intelligence Company. 
+* Former Founder, Human Source Intelligence. International Management Consulting & Leadership Development. 
+* ML and AI researcher. #ML #AI #datascience #stats #python
 
 ### Contact 
 
