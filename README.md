@@ -1,11 +1,9 @@
 * * *
 
 ### Profile Summary
-* Explorer, hiker, veteran 
-* University Faculty (Retd)
-* Lieutenant-Colonel (Retd), Canadian Army
-* Founder
-* Researcher #ML #AI #datascience #stats #python 
+* Explorer, hiker, veteran.
+* University Faculty (Retd), MacEwan University and Royal Military College of Canada.
+* Lieutenant-Colonel (Retd), Canadian Army.
 
 ### Contact 
 
