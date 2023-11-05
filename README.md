@@ -1,7 +1,7 @@
 * * *
 
 ### Profile Summary
-* Explorer, hiker, veteran
+* Explorer, hiker, veteran 
 * University Faculty (Retd)
 * Lieutenant-Colonel (Retd), Canadian Army
 * Founder
