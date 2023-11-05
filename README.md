@@ -5,7 +5,7 @@
 * University Faculty (Retd)
 * Lieutenant-Colonel (Retd), Canadian Army
 * Founder
-* Researcher #ML #AI #datascience #stats #python
+* Researcher #ML #AI #datascience #stats #python 
 
 ### Contact 
 
