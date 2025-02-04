@@ -1,9 +1,9 @@
 * * *
 
-### Profile Summary
-* Explorer, hiker, veteran
+### Independent Global Perspectives
 * University Faculty (Retd), MacEwan University and Royal Military College of Canada
 * Lieutenant-Colonel (Retd), Canadian Army
+* Explorer, hiker, veteran
 
 ### Contact 
 
