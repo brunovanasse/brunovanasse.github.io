@@ -6,7 +6,7 @@
 * Explorer, hiker, veteran, on an extended sabbatical.
 * Vancouver, Canada.
 
-# Investigating the nexus of geopolitics, global macro, strategy, technology, psychology and culture.
+#### Investigating the nexus of geopolitics, global macro, strategy, technology, psychology and culture.
 
 ### Contact 
 
