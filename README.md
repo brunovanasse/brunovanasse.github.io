@@ -1,10 +1,12 @@
 * * *
 
 ### Independent Global Perspectives
-* University Faculty (Retd), MacEwan University and Royal Military College of Canada
-* Lieutenant-Colonel (Retd), Canadian Army
-* Explorer, hiker, veteran
-* Vancouver, Canada
+* University Faculty (Retd), MacEwan University and Royal Military College of Canada.
+* Lieutenant-Colonel (Retd), Canadian Army.
+* Explorer, hiker, veteran, on an extended sabbatical.
+* Vancouver, Canada.
+
+# Investigating the nexus of geopolitics, global macro, strategy, technology, psychology and culture.
 
 ### Contact 
 
