@@ -4,9 +4,9 @@
 * Former full-time University Faculty, MacEwan University and Royal Military College of Canada.
 * Retired Senior Officer - Canadian Armed Forces \| Forces armées canadiennes.
 * Explorer, hiker, veteran.
-* Vancouver, Canada.
+* Vancouver, Canada (on sabbatical).
 
-***- Connecting geopolitics and markets: strategy, technology, and human factors (on sabbatical).***
+***- Connecting geopolitics and markets: strategy, technology, and human factors.***
 
 ### Contact 
 
