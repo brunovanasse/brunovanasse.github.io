@@ -6,8 +6,6 @@
 * Explorer, hiker, veteran.
 * Vancouver, Canada (on sabbatical).
 
-***- Connecting geopolitics and markets: strategy, technology and human factors.***
-
 ### Contact 
 
 Contact Bruno Vanasse via this Google Forms page: [https://forms.gle/o29aKTZFN9G36T6W8 ](https://forms.gle/o29aKTZFN9G36T6W8) 
