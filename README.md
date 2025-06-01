@@ -2,7 +2,7 @@
 
 ### Independent Global Perspectives
 * Former full-time University Faculty, MacEwan University and Royal Military College of Canada.
-* Retired Senior Officer - Canadian Armed Forces >! | !< Forces armées canadiennes.
+* Retired Senior Officer - Canadian Armed Forces \| Forces armées canadiennes.
 * Explorer, hiker, veteran.
 * Vancouver, Canada.
 
