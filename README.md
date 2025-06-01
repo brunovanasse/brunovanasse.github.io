@@ -6,7 +6,7 @@
 * Explorer, hiker, veteran.
 * Vancouver, Canada (on sabbatical).
 
-***- Connecting geopolitics and markets: strategy, technology, and human factors.***
+***- Connecting geopolitics and markets: strategy, technology and human factors.***
 
 ### Contact 
 
