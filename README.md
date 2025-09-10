@@ -1,8 +1,9 @@
 * * *
 
 ### Independent Global Perspectives
-* Exploring personal interests & new adventures.
-* Vancouver, Canada.
+* Analyzing the interplay between strategy, technology, human factors, geopolitics and markets.
+• Exploring personal interests & new adventures - a.k.a. "Retired!"
+• Location: Canada.
 
 ### Contact 
 
