@@ -2,8 +2,8 @@
 
 ### Independent Global Perspectives
 * Analyzing the interplay between strategy, technology, human factors, geopolitics and markets.
-• Exploring personal interests & new adventures - a.k.a. "Retired!"
-• Location: Canada.
+* Exploring personal interests & new adventures - a.k.a. "Retired!"
+* Location: Canada.
 
 ### Contact 
 
