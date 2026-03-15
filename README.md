@@ -1,9 +1,11 @@
 * * *
 
-### Independent Global Perspectives
-* Analyzing the interplay between strategy, technology, human factors, geopolitics and markets.
-* Exploring personal interests & new adventures - a.k.a. "Retired!"
+### Independent Private Citizen
+* Former full-time University Faculty and Program Chair, MacEwan University and Royal Military College of Canada.
+* Retired Senior Officer - Canadian Armed Forces. 
+* Explorer, hiker, veteran.
 * Location: Canada.
+
 
 ### Contact 
 
