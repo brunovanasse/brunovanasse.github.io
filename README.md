@@ -1,8 +1,9 @@
 * * *
 
-### Independent Private Citizen
+### Private Citizen
 * Former full-time University Faculty and Program Chair, MacEwan University and Royal Military College of Canada.
-* Retired Senior Officer - Canadian Armed Forces. 
+* Retired Senior Officer - Canadian Armed Forces.
+* Strategy, technology, human factors, geopolitics and markets.
 * Explorer, hiker, veteran.
 * Location: Canada.
 
